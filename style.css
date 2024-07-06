@@ -1,6 +1,8 @@
 h1{
   font-size: 20px;
   font-family: sans-serif;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .button{
@@ -9,7 +11,9 @@ h1{
   margin-right: auto;
   display: block;
   background-color: #000000; /* black */
-  font-color: #F8F8FF; /* grayish white */
+  color: #FFFFFF; /* white */
+  padding: 50px 50px;
+  border-radius: 50%;
 
 body{
   background-color: #DCDCDC; /* whitish gray */
